@@ -1,1 +1,7 @@
-Background color is red.
+body {
+  background-color: blueviolet;  
+}
+
+h1 {
+  font-size: 40px;  
+}
